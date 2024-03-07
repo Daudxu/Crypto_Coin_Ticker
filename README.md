@@ -1,6 +1,5 @@
 ![](preview/IMG_M.jpg)
 
-
 CRYPTO CURRENCY PRICE TICKER with 24 candlesticks chart for M5Stack
 
 ###SD-Card Version with configuation file###
